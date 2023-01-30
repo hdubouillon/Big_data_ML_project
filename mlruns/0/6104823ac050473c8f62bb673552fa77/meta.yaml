@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/henri/Documents/Travail/EFREI/M2/Cours/Applications%20of%20Big%20Data/Big_data_ML_project/Big_data_ML_project/mlruns/0/6104823ac050473c8f62bb673552fa77/artifacts
+end_time: 1675114463083
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6104823ac050473c8f62bb673552fa77
+run_name: caring-quail-308
+run_uuid: 6104823ac050473c8f62bb673552fa77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675114323382
+status: 3
+tags: []
+user_id: henri

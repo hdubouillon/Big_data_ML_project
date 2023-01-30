@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/henri/Documents/Travail/EFREI/M2/Cours/Applications%20of%20Big%20Data/Big_data_ML_project/Big_data_ML_project/mlruns/0/a1f41ac6499b4c8399eb91886f4b4ae5/artifacts
+end_time: 1675113830432
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a1f41ac6499b4c8399eb91886f4b4ae5
+run_name: peaceful-hawk-601
+run_uuid: a1f41ac6499b4c8399eb91886f4b4ae5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675113808709
+status: 3
+tags: []
+user_id: henri

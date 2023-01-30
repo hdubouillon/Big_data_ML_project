@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/henri/Documents/Travail/EFREI/M2/Cours/Applications%20of%20Big%20Data/Big_data_ML_project/Big_data_ML_project/mlruns/0/ee5c278e1b5d40c78dececf4b31fd90e/artifacts
+end_time: 1675113690196
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee5c278e1b5d40c78dececf4b31fd90e
+run_name: receptive-finch-11
+run_uuid: ee5c278e1b5d40c78dececf4b31fd90e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675113500585
+status: 3
+tags: []
+user_id: henri

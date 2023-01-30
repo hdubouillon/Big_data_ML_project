@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/henri/Documents/Travail/EFREI/M2/Cours/Applications%20of%20Big%20Data/Big_data_ML_project/Big_data_ML_project/mlruns/0/300bc88160a9422cb19cf4a5f6f98c46/artifacts
+end_time: 1675114005426
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 300bc88160a9422cb19cf4a5f6f98c46
+run_name: unique-mare-514
+run_uuid: 300bc88160a9422cb19cf4a5f6f98c46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675113953809
+status: 3
+tags: []
+user_id: henri

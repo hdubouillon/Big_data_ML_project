@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/henri/Documents/Travail/EFREI/M2/Cours/Applications%20of%20Big%20Data/Big_data_ML_project/Big_data_ML_project/mlruns/0/68b626fd9f5f4df8bd36ffe8f5e05c2c/artifacts
+end_time: 1675113163237
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 68b626fd9f5f4df8bd36ffe8f5e05c2c
+run_name: righteous-loon-141
+run_uuid: 68b626fd9f5f4df8bd36ffe8f5e05c2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675113100998
+status: 3
+tags: []
+user_id: henri

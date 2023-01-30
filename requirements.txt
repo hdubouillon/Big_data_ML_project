@@ -12,7 +12,12 @@ python-dotenv>=0.5.1
 # data preprocessing requirements
 pandas
 numpy
+
+# dataviz
 matplotlib.pyplot
+plotly
+seaborn
+cufflinks
 
 # machine learning requirements
 sklearn
