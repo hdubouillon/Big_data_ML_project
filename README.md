@@ -1,7 +1,15 @@
 Home Credit Risk Classification
 ==============================
 
-A short description of the project.
+This project is organized into 3 parts :
+● Part 1 : Building Classical ML projects with respect to basic ML Coding best practices
+● Part 2 : Integrate MLFlow to the project
+● Part 3 : Integrate ML Interpretability to the project
+DataSet (Finance use case):
+DataSet of Home Credit Risk Classification: https://www.kaggle.com/c/home-credit-default-risk/data
+⇒application_train.csv
+⇒application_test.csv
+
 
 Project Organization
 ------------

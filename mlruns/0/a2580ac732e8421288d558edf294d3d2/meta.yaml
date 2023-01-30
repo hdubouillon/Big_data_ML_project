@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/henri/Documents/Travail/EFREI/M2/Cours/Applications%20of%20Big%20Data/Big_data_ML_project/Big_data_ML_project/mlruns/0/a2580ac732e8421288d558edf294d3d2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a2580ac732e8421288d558edf294d3d2
+run_name: skillful-mouse-922
+run_uuid: a2580ac732e8421288d558edf294d3d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675060238868
+status: 1
+tags: []
+user_id: henri

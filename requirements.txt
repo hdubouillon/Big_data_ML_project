@@ -17,3 +17,7 @@ matplotlib.pyplot
 # machine learning requirements
 sklearn
 xgboost
+
+# other requirements
+mlflow
+shap
