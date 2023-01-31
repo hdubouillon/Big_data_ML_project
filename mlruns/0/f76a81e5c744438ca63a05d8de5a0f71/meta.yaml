@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/henri/Documents/Travail/EFREI/M2/Cours/Applications%20of%20Big%20Data/Big_data_ML_project/Big_data_ML_project/mlruns/0/f76a81e5c744438ca63a05d8de5a0f71/artifacts
+end_time: 1675120279909
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f76a81e5c744438ca63a05d8de5a0f71
+run_name: invincible-mare-800
+run_uuid: f76a81e5c744438ca63a05d8de5a0f71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675120128182
+status: 3
+tags: []
+user_id: henri

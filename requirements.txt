@@ -22,7 +22,10 @@ cufflinks
 # machine learning requirements
 sklearn
 xgboost
+joblib
 
 # other requirements
+os
+warnings
 mlflow
 shap
