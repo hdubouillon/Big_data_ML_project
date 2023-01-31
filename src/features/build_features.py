@@ -7,6 +7,7 @@ from sklearn.impute import SimpleImputer
 
 def import_data(input_filepath):
     # Import the data from raw directory
+    print('Import', input_filepath)
     data = pd.read_csv(input_filepath)
     return data
 
@@ -20,12 +21,8 @@ def feature_engineering(data):
     le = LabelEncoder()
     for col in data:
         if data[col].dtype == 'object':
-            if len(list(data[col].unique())) <= 2:
-                le.fit(data[col])
-                data[col] = le.transform(data[col])
-
-    # One-hot encoding of the other categorical variables
-    data = pd.get_dummies(data)
+            le.fit(data[col])
+            data[col] = le.transform(data[col])
 
     # Median imputation of missing values
     imputer = SimpleImputer(missing_values=np.nan, strategy='median')
@@ -43,6 +40,7 @@ def feature_engineering(data):
 
 def export_data(data, output_filepath):
     # Export the data to precessed directory
+    print('Export', output_filepath)
     data.to_csv(output_filepath, index=False, compression='zip')
 
 
@@ -55,8 +53,8 @@ train = feature_engineering(train)
 export_data(train, train_output_filepath)
 
 # Test data
-test_input_filepath = 'data/raw/application_train.csv.zip'
-test_output_filepath = 'data/processed/application_train.csv.zip'
+test_input_filepath = 'data/raw/application_test.csv.zip'
+test_output_filepath = 'data/processed/application_test.csv.zip'
 test = import_data(test_input_filepath)
 test = data_preprocessing(test)
 test = feature_engineering(test)
