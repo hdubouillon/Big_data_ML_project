@@ -82,7 +82,7 @@ target/
 /data/
 
 # exclude big models
-/models/rf.pkl
+models/rf.pkl
 
 # Mac OS-specific storage files
 .DS_Store
